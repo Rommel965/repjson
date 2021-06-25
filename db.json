@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "nombre": "Rommel",
+    "apellido": "Chable",
+    "telefono": "999999999",
+    "categoria": "Deporte",
+    "fecha": "24/06/1900",
+    "hora": "12:00"
+  },
+  {
+    "id": 2,
+    "nombre": "Miranda",
+    "apellido": "Saenz",
+    "telefono": "111111111",
+    "categoria": "Videojuegos",
+    "fecha": "05/06/2021",
+    "hora": "10:20"
+  },
+  {
+    "id": 3,
+    "nombre": "Rubi",
+    "apellido": "Fernandez",
+    "telefono": "222222222",
+    "categoria": "trabajo",
+    "fecha": "08/06/2021",
+    "hora": "11:00"
+  },
+  {
+    "id": 4,
+    "nombre": "Adam",
+    "apellido": "Lomas",
+    "telefono": "555555555",
+    "categoria": "Deporte",
+    "fecha": "11/06/2021",
+    "hora": "11:00"
+  }
+]
